@@ -1,0 +1,53 @@
+.section-2-head {
+    font-family: 'Mulish';
+    font-size: 50px;
+    line-height: 0.9;
+    font-weight: 1000;
+    margin-top: 70px;
+    margin-left: 30px;
+}
+
+.section-2-para {
+    font-family: 'MULISH';
+    width: 530px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.section-2 {
+    height: 100vh;
+}
+
+.section-2-banner-cont {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.section-2-banner {
+    width: 350px;
+    font-family: 'Mulish';
+}
+
+.section-2-banner-head {
+    font-weight: 400;
+    font-family: 'Mulish';
+    margin-bottom: 15px;
+    margin-top: 35px;
+}
+
+.learn-bt {
+    background-color: black;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 7px;
+    font-family: 'OPEN SANS CONDENSED';
+    margin-top: 20px;
+    cursor: pointer;
+    border: none;
+}
+
+.learn-bt:hover {
+    background-color: rgb(47, 47, 47);
+}

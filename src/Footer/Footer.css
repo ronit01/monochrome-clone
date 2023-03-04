@@ -1,0 +1,55 @@
+.footer-1 {
+    height: 100px;
+    width: 100%;
+    background: linear-gradient(45deg, #06c, #02cbfb);
+    font-family: 'Mulish';
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.footer-1-bt {
+    background-color: white;
+    color: black;
+    padding: 15px 30px;
+    border-radius: 5px;
+    font-family: 'OPEN SANS CONDENSED';
+    border: none;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.footer-1-bt:hover {
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+}
+
+.footer-2-logo {
+    width: 50px;
+}
+
+.footer-2 {
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px;
+    font-family: 'Mulish';
+    font-size: small;
+}
+
+.footer-21 {
+    margin: 10px 0px;
+}
+
+.footer-22 {
+    font-family: "Open Sans Condensed";
+    display: flex;
+    align-items: center;
+}

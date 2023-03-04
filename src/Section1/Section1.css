@@ -1,0 +1,26 @@
+.section-1 {
+    height: 100vh;
+    background-image: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ), url("https://demo.studiopress.com/monochrome/files/2017/04/sample-light-2.jpg");
+    color: white;
+    margin-top: 30px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 70px;
+}
+
+.section-1-head {
+    font-family: 'Mulish';
+    font-size: 60px;
+    width: 300px;
+    line-height: 0.9;
+    font-weight: 1000;
+}
+
+.section-1-para {
+    font-family: 'MULISH';
+    width: 530px;
+    margin-top: 20px;
+    font-size: smaller;
+}

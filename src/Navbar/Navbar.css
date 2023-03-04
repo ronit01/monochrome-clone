@@ -1,0 +1,30 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 70px;
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    top: 0;
+}
+
+.nav-links {
+    display: flex;
+}
+
+.nav-ele {
+    padding: 0px 15px;
+    vertical-align: middle;
+    font-family: 'Mulish';
+}
+
+.nav-logo-img {
+    width: 50px;
+    margin-left: 30px;
+}
+
+.search-icon {
+    width: 20px;
+    height: 20px;
+}

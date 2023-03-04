@@ -1,0 +1,33 @@
+.section-4-head {
+    font-family: 'Mulish';
+    font-size: 50px;
+    line-height: 0.9;
+    font-weight: 1000;
+    margin-top: 70px;
+    margin-left: 30px;
+}
+
+.section-4-para {
+    font-family: 'MULISH';
+    width: 530px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.section-4-banner {
+    font-family: 'Mulish';
+}
+
+.section-4-banner-head {
+    margin-top: 10px;
+}
+
+.section-4-banner-body {
+    font-size: small;
+    color: grey;
+    margin-top: 7px;
+}
+
+.section-4-img {
+    width: 550px;
+}
